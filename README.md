@@ -1,2 +1,2 @@
 # Recipizer
-JavaScript library for making recipes and allowing users to easily scale batch sizes
+JavaScript library for making formatted recipes which allow users to easily scale batch sizes.
